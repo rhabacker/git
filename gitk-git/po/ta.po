@@ -220,6 +220,9 @@ msgstr "புதிய கிளையை உருவாக்கு"
 
 msgid "Cherry-pick this commit"
 msgstr "கனி-எடு இந்த உறுதிமொழி"
+msgid "Cherry-pick this commit with -x"
+msgstr ""
+
 
 msgid "Reset HEAD branch to here"
 msgstr "தலை கிளையை இங்கே மீட்டமை"

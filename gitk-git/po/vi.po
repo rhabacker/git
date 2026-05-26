@@ -217,6 +217,9 @@ msgstr "Tạo nhánh mới"
 
 msgid "Cherry-pick this commit"
 msgstr "Cherry-pick lần chuyển giao này"
+msgid "Cherry-pick this commit with -x"
+msgstr ""
+
 
 msgid "Reset HEAD branch to here"
 msgstr "Đặt lại HEAD của nhánh vào đây"

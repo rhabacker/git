@@ -223,6 +223,9 @@ msgstr "Skapa ny gren"
 
 msgid "Cherry-pick this commit"
 msgstr "Plocka denna incheckning"
+msgid "Cherry-pick this commit with -x"
+msgstr ""
+
 
 msgid "Reset HEAD branch to here"
 msgstr "Återställ HEAD-grenen hit"

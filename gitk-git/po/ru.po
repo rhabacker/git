@@ -226,6 +226,9 @@ msgstr "Создать ветку"
 
 msgid "Cherry-pick this commit"
 msgstr "Копировать этот коммит в текущую ветку"
+msgid "Cherry-pick this commit with -x"
+msgstr ""
+
 
 msgid "Reset HEAD branch to here"
 msgstr "Установить HEAD на этот коммит"

@@ -216,6 +216,9 @@ msgstr "Új branch készítése"
 
 msgid "Cherry-pick this commit"
 msgstr "Cherry-pick erre a commitra"
+msgid "Cherry-pick this commit with -x"
+msgstr ""
+
 
 msgid "Reset HEAD branch to here"
 msgstr "HEAD branch újraindítása ide"

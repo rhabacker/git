@@ -217,6 +217,9 @@ msgstr "Neuen Zweig erstellen"
 
 msgid "Cherry-pick this commit"
 msgstr "Diese Version pflücken"
+msgid "Cherry-pick this commit with -x"
+msgstr ""
+
 
 msgid "Reset HEAD branch to here"
 msgstr "HEAD-Zweig auf diese Version zurücksetzen"
