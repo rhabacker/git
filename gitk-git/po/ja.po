@@ -223,6 +223,9 @@ msgstr "新規ブランチ生成"
 
 msgid "Cherry-pick this commit"
 msgstr "このコミットをチェリーピックする"
+msgid "Cherry-pick this commit with -x"
+msgstr ""
+
 
 msgid "Reset HEAD branch to here"
 msgstr "ブランチのHEADをここにリセットする"

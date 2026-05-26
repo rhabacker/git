@@ -223,6 +223,9 @@ msgstr "Създаване на нов клон"
 
 msgid "Cherry-pick this commit"
 msgstr "Отбиране на това подаване"
+msgid "Cherry-pick this commit with -x"
+msgstr ""
+
 
 msgid "Reset HEAD branch to here"
 msgstr "Привеждане на върха на клона към текущото подаване"

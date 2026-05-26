@@ -219,6 +219,9 @@ msgstr "Crea una branca nova"
 
 msgid "Cherry-pick this commit"
 msgstr "Recull aquesta comissió com a cirera"
+msgid "Cherry-pick this commit with -x"
+msgstr ""
+
 
 msgid "Reset HEAD branch to here"
 msgstr "Restableix la branca HEAD aquí"

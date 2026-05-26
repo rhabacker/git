@@ -214,6 +214,9 @@ msgstr "创建新分支"
 
 msgid "Cherry-pick this commit"
 msgstr "在此提交运用补丁(cherry-pick)命令"
+msgid "Cherry-pick this commit with -x"
+msgstr ""
+
 
 msgid "Reset HEAD branch to here"
 msgstr "将分支头(HEAD)重置到此处"
