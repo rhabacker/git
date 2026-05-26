@@ -223,6 +223,9 @@ msgstr "Créer une nouvelle branche"
 
 msgid "Cherry-pick this commit"
 msgstr "Cueillir (cherry-pick) ce commit"
+msgid "Cherry-pick this commit with -x"
+msgstr ""
+
 
 msgid "Reset HEAD branch to here"
 msgstr "Réinitialiser la branche HEAD vers cet état"

@@ -217,6 +217,9 @@ msgstr "Crea un nuovo ramo"
 
 msgid "Cherry-pick this commit"
 msgstr "Porta questa revisione in cima al ramo attuale"
+msgid "Cherry-pick this commit with -x"
+msgstr ""
+
 
 msgid "Reset HEAD branch to here"
 msgstr "Aggiorna il ramo HEAD a questa revisione"
