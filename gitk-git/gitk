@@ -9165,13 +9165,13 @@ proc rowmenu {x y id} {
     if {$id ne $nullid && $id ne $nullid2} {
         set menu $rowctxmenu
         if {$mainhead ne {}} {
-            $menu entryconfigure 8 -label [mc "Reset %s branch to here" $mainhead] -state normal
+            $menu entryconfigure 9 -label [mc "Reset %s branch to here" $mainhead] -state normal
         } else {
-            $menu entryconfigure 8 -label [mc "Detached head: can't reset" $mainhead] -state disabled
+            $menu entryconfigure 9 -label [mc "Detached head: can't reset" $mainhead] -state disabled
         }
-        $menu entryconfigure 10 -state $mstate
         $menu entryconfigure 11 -state $mstate
         $menu entryconfigure 12 -state $mstate
+        $menu entryconfigure 13 -state $mstate
     } else {
         set menu $fakerowmenu
     }
